@@ -16,7 +16,7 @@ The  neural network we use to build the model is inception_v3.
 we based on the code from this repo to build the model.
 https://github.com/5donuts/flower-classifier
 
-this code is very infomative and implements 3 steps to train the model: unify the size of the images, randomanly seperate the data sets into 3 dictionaries: validation, test and train, and finally train the model. 
+this repo is very infomative and we implements 3 steps to train the model: unify the size of the images, randomanly seperate the data sets into 3 dictionaries: validation, test and train, and finally train the model. 
 We edit the code a little bit in order to save the model and convert it to TensorFlow Lite so it can be integrated easily into our app. 
 
 In order to install the app on an android device, one can download the following apk:
