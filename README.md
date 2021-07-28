@@ -1,6 +1,6 @@
 # Flower_Application
 
-This git repo contains our flower recognition application based on java (Final Project, Electrical Engineering, Tel Aviv University)
+This git repo contains our flower recognition application based on java (Final Project, Electrical Engineering, Tel Aviv University instructed by Amir Kirsh)
 
 In order to install the app on an android device, one can download the following apk:
 https://drive.google.com/file/d/1RwQKo-EuzcrvU_QcCbQ1LRvcD9HOHAht/view?usp=sharing
