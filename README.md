@@ -11,6 +11,7 @@ This script search for images in google using the strings given to it within the
 
 The raw data contains between 300 to 1000 images per flower.
 The data set data set can be found here:
+https://drive.google.com/file/d/12SN5GgLUDkQV2otIMgMyAP886-3i0Rvz/view?usp=sharing
 
 The augmentation script (which can be found in "Data Set" folder), run over all the images within a folder and can rotate and britghen the images for the purpose of expand the amount of images using for the train data set. you should keep the ratio between the amount of images for all flowers.
 
