@@ -5,9 +5,6 @@ import signal
 import zipfile
 import datetime
 
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-
 import tensorflow as tf
 from tensorflow.keras import layers
 from tensorflow.keras import Model
